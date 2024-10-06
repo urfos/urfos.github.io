@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Thanks for stopping by! 
 
-I am Senior Economist at Institut de Politiques Publiques, co-founded by Paris School of Economics.
+I am Senior Economist at [Institut de Politiques Publiques](https://www.ipp.eu) of [Paris School of Economics](https://www.parisschoolofeconomics.eu).
 
 Reach out by e-mail or social media -- use the icons below.
