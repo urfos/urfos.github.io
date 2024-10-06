@@ -23,4 +23,3 @@ Thanks for stopping by!
 I am Senior Economist at Institut de Politiques Publiques, co-founded by Paris School of Economics.
 
 Reach out by e-mail or social media -- use the icons below.
-
