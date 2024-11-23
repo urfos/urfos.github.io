@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Own courses taught for university, business school and engineering schools.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+* **Macroeconomics**, M1 PSME at University Paris-1 Panthéon-Sorbonne. [Link to course repo](https://github.com/urfos/PSME_lectures_2023_2024)
+* **Monetary economics**, Pre-Master at ESCP Europe (course author [Pablo Winant](https://www.mosphere.fr))
+* **Introduction to energy economics, module on energy efficiency of housing** at ENSTA engineering schol 
+	
