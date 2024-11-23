@@ -21,4 +21,4 @@ I am Senior Economist at [Institut de Politiques Publiques](https://www.ipp.eu) 
 
 Previously, I was post-doc at Ecole des Ponts and [CIRED](https://www.centre-cired.fr/en/home/), after receiving a Ph.D. from [Paris School of Economics](www.parisschoolofeconomics.eu)
 
-Contact me using icons at the bottom of the page.
+Feel free to contact me using icons at the bottom of the page.
