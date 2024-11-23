@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ilya Eryzhenskiy",
-    "label": "Economist",
+    "label": "Research economist",
     "image": "",
     "email": "ilya.eryzhenskiy@ipp.eu",
     "phone": "",
@@ -68,8 +68,14 @@
       "name": "Intergenerational Redistribution with Endogenous Constraints to Household Debt",
       "publisher": "Journal of Mathematical Economics",
       "releaseDate": "2024",
-      "url": "https://www.sciencedirect.com/journal/journal-of-mathematical-economics",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304406824001289?dgcid=author",
       "summary": "When households have limited commitment to debt repayment, transfers between generations worsen credit constraints on the young, while government debt relax them."
+    }, {
+      "name": "Success and Failure of Zero-Interest Green Loans: Evidence from France",
+      "publisher": "HAL working paper",
+      "releaseDate": "2023",
+      "url": "https://enpc.hal.science/hal-03585110v2"
+      "summary": "Zero-interest loan can significantly increase investment in home energy retrofits, but institutional bottlenecks make it hard to implement such a program."
     }
   ],
   "languages": [
