@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Ilya Eryzhenskiy",
+    "label": "Research economist",
+    "image": "",
+    "email": "ilya.eryzhenskiy@ipp.eu",
+    "phone": "",
+    "url": "https://urfos.github.io",
+    "summary": "Ph.D. economist specializing in public, environment and financial economics",
+    "location": {
+      "address": "48, boulevard Jourdan",
+      "postalCode": "75014",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ilya-eryzhenskiy",
+        "url": "https://www.linkedin.com/in/ilya-eryzhenskiy-964581103/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Centre International de la Recherche en Environnement et Developpement (CIRED)",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.centre-cired.fr/en/",
+      "startDate": "2021/05",
+      "endDate": "2024/08",
+      "summary": "Research on topics in housing, banking and environment.",
+      "highlights": ["Housing", "Banking" ,"Environment"]
+    }, 
+    {
+      "name": "Institut des Politiques Publiques, Paris School of Economics",
+      "position": "Senior Economist",
+      "url": "https://www.ipp.eu",
+      "startDate": "2024/09",
+      "endDate": "Present",
+      "summary": "Evaluating French policies with environmental and labor market targets.",
+      "highlights": ["Environment", "Labor"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Paris School of Economics, University Paris-1 Pantheon-Sorbonne & Bielefeld University",
+      "location": "Paris & Bielefeld",
+      "area": "Macroeconomics, Banking",
+      "studyType": "PhD",
+      "url": "https://www.parisschoolofeconomics.eu",
+      "startDate": "2015/09",
+      "endDate": "2021/01",
+      "score": "Summa cum laude",
+      "courses": ["Personal bankruptcy", "Asset bubbles", "Housing credit", "Macro dynamics"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Summer School in Banking",
+      "date": "2019/07",
+      "issuer": "Pompeu Fabra University",
+      "icon": "fa-solid fa-check"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Intergenerational Redistribution with Endogenous Constraints to Household Debt",
+      "publisher": "Journal of Mathematical Economics",
+      "releaseDate": "2024",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304406824001289?dgcid=author",
+      "summary": "When households have limited commitment to debt repayment, transfers between generations worsen credit constraints on the young, while government debt relax them."
+    }, {
+      "name": "Success and Failure of Zero-Interest Green Loans: Evidence from France",
+      "publisher": "HAL working paper",
+      "releaseDate": "2023",
+      "url": "https://enpc.hal.science/hal-03585110v2"
+      "summary": "Zero-interest loan can significantly increase investment in home energy retrofits, but institutional bottlenecks make it hard to implement such a program."
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }, 
+    {
+      "language": "German",
+      "fluency": "Basic",
+      "icon": ""
+    }, 
+    {
+      "language": "Russian",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Public Policy",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Energy efficiency subisdies",
+        "Credit facilities",
+        "In-work Subsidies"
+      ]
+    },
+    {
+      "name": "Environment",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Energy Efficiency",
+        "Extreme Weather Events",
+        "Pigouvian Policies"
+      ]
+    }, 
+    {
+      "name": "Banking",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Housing Credit",
+        "Climate Risk Pricing",
+        "Financial Stability"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Bertrand Wigniolle",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Ph.D. advisor, co-author. Professor at Paris School of Economics"
+    },
+    {
+      "name": "Louis-Gaëtan Giraudet",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Co-author. Researcher in Ecole National des Ponts et Chaussees and CIRED"
+    }
+  ]
+}
