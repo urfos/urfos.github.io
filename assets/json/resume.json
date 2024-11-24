@@ -23,24 +23,24 @@
     ]
   },
   "work": [
-    {
-      "name": "Centre International de la Recherche en Environnement et Developpement (CIRED)",
-      "position": "Postdoctoral Researcher",
-      "url": "https://www.centre-cired.fr/en/",
-      "startDate": "2021/05",
-      "endDate": "2024/08",
-      "summary": "Research on topics in housing, banking and environment.",
-      "highlights": ["Housing", "Banking" ,"Environment"]
-    }, 
-    {
-      "name": "Institut des Politiques Publiques, Paris School of Economics",
+		{
+      "name": "Institut des Politiques Publiques -- Paris School of Economics",
       "position": "Senior Economist",
       "url": "https://www.ipp.eu",
       "startDate": "2024/09",
       "endDate": "Present",
       "summary": "Evaluating French policies with environmental and labor market targets.",
       "highlights": ["Environment", "Labor"]
+    },
+    {
+      "name": "Centre International de la Recherche en Environnement et Developpement (CIRED)",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2021/05",
+      "endDate": "2024/08",
+      "summary": "Research on topics in energy efficiency, extreme weather events, housing, banking.",
+      "highlights": ["Housing", "Banking" ,"Environment"]
     }
+    
   ],
   "education": [
     {
@@ -51,7 +51,7 @@
       "url": "https://www.parisschoolofeconomics.eu",
       "startDate": "2015/09",
       "endDate": "2021/01",
-      "score": "Summa cum laude",
+      "score": "Summa cum laude (Bielefeld university)",
       "courses": ["Personal bankruptcy", "Asset bubbles", "Housing credit", "Macro dynamics"]
     }
   ],
@@ -67,14 +67,14 @@
     {
       "name": "Intergenerational Redistribution with Endogenous Constraints to Household Debt",
       "publisher": "Journal of Mathematical Economics",
-      "releaseDate": "2024",
+      "releaseDate": "2025/02",
       "url": "https://www.sciencedirect.com/science/article/pii/S0304406824001289?dgcid=author",
       "summary": "When households have limited commitment to debt repayment, transfers between generations worsen credit constraints on the young, while government debt relax them."
     }, {
       "name": "Success and Failure of Zero-Interest Green Loans: Evidence from France",
       "publisher": "HAL working paper",
-      "releaseDate": "2023",
-      "url": "https://enpc.hal.science/hal-03585110v2"
+      "releaseDate": "2023/07",
+      "url": "https://enpc.hal.science/hal-03585110v2",
       "summary": "Zero-interest loan can significantly increase investment in home energy retrofits, but institutional bottlenecks make it hard to implement such a program."
     }
   ],
@@ -105,9 +105,9 @@
       "name": "Public Policy",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Energy efficiency subisdies",
-        "Credit facilities",
-        "In-work Subsidies"
+        "In-work benefits",
+        "Energy efficiency policies",
+        "Credit subsidies"
       ]
     },
     {
@@ -137,8 +137,18 @@
     },
     {
       "name": "Louis-Gaëtan Giraudet",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-laptop",
       "reference": "Co-author. Researcher in Ecole National des Ponts et Chaussees and CIRED"
+    },
+    {
+      "name": "Hippolyte d'Albis",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Thesis commitee member. Professor at Paris School of Economics"
+    },
+    {
+      "name": "Mariona Segú",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Co-author. Researcher in Cergy University"
     }
   ]
 }
