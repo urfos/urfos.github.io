@@ -48,7 +48,6 @@
       "location": "Paris & Bielefeld",
       "area": "Macroeconomics, Banking",
       "studyType": "PhD",
-      "url": "https://www.parisschoolofeconomics.eu",
       "startDate": "2015/09",
       "endDate": "2021/01",
       "score": "Summa cum laude (Bielefeld university)",
@@ -68,7 +67,7 @@
       "name": "Intergenerational Redistribution with Endogenous Constraints to Household Debt",
       "publisher": "Journal of Mathematical Economics",
       "releaseDate": "2025/02",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0304406824001289?dgcid=author",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304406824001289",
       "summary": "When households have limited commitment to debt repayment, transfers between generations worsen credit constraints on the young, while government debt relax them."
     }, {
       "name": "Success and Failure of Zero-Interest Green Loans: Evidence from France",
