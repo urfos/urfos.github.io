@@ -8,7 +8,7 @@ middle_name:
 last_name: Eryzhenskiy
 email: ilya.eryzhenskiy@ipp.eu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Senior Economist at Institut des Politiques Publiques at Paris School of Economics.
+  Senior Economist at Institut des Politiques Publiques at  School of Economics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -89,7 +89,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: ilya-eryzhenskiy # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: https://orcid.org/0000-0002-6032-8804 # your ORCID ID
+orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -107,7 +107,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: restedebout # your X handle
+x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -509,15 +509,15 @@ third_party_libraries:
     url:
       js: https://cdn.jsdelivr.net/npm/imagesloaded@{{version}}/imagesloaded.pkgd.min.js
     version: "5.0.0"
-  img-comparison-slider:
+  img-comon-slider:
     integrity:
       css: "sha256-3qTIuuUWIFnnU3LpQMjqiXc0p09rvd0dmj+WkpQXSR8="
       js: "sha256-EXHg3x1K4oIWdyohPeKX2ZS++Wxt/FRPH7Nl01nat1o="
       map: "sha256-3wfqS2WU5kGA/ePcgFzJXl5oSN1QsgZI4/edprTgX8w="
     url:
-      css: "https://cdn.jsdelivr.net/npm/img-comparison-slider@{{version}}/dist/styles.min.css"
-      js: "https://cdn.jsdelivr.net/npm/img-comparison-slider@{{version}}/dist/index.min.js"
-      map: "https://cdn.jsdelivr.net/npm/img-comparison-slider@{{version}}/dist/index.js.map"
+      css: "https://cdn.jsdelivr.net/npm/img-comon-slider@{{version}}/dist/styles.min.css"
+      js: "https://cdn.jsdelivr.net/npm/img-comon-slider@{{version}}/dist/index.min.js"
+      map: "https://cdn.jsdelivr.net/npm/img-comon-slider@{{version}}/dist/index.js.map"
     version: "8.0.6"
   jquery:
     integrity:
