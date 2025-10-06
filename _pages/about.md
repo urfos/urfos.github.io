@@ -6,7 +6,7 @@ subtitle: Institut des politiques publiques. Public, environmental, financial ec
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar_Zurich.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
