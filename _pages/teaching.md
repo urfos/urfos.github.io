@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Own courses taught for university, business school and engineering schools.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 * **Macroeconomics**, M1 PSME at University Paris-1 Panthéon-Sorbonne. [Link to course repo](https://github.com/urfos/PSME_lectures_2023_2024)
